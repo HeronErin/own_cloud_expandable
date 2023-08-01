@@ -1,0 +1,6 @@
+crypto
+crypto/*
+examples/__pycache__
+examples/myCfg.py
+examples/wco.py
+src/__pycache__
